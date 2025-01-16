@@ -4,11 +4,16 @@
   <a href="https://www.linkedin.com/in/jose-antonio-del-pino-mu%C3%B1oz/" target="_blank" >
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo de linkedin"></a>
 </div>     
-    
-![Asset 1motor](https://github.com/user-attachments/assets/a2aa5e42-1508-40c7-9c8e-1bb327fcbb49)
-
 
 ---
+    
+![grandeAsset 4motor](https://github.com/user-attachments/assets/226dc280-cacc-4c16-90cc-0e7e17caa416)
+
+---
+
+<br><br>
+
+## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"></picture><b> About Me</b>
 
 I hold a degree in Digital Communication and I’m close to completing a Higher Technician degree in Web Development and Multiplatform Applications.
 
@@ -35,8 +40,7 @@ I am a quick learner, tenacious, and I excel in teamwork, always striving to con
 
 
 ### Frameworks y libraries
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)![Uploading Asset 1motor.png…]()
-
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
@@ -68,3 +72,5 @@ I am a quick learner, tenacious, and I excel in teamwork, always striving to con
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
+
+
