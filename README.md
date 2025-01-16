@@ -1,3 +1,5 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00aeef&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Jose+Antonio;I'm+a+Freelancer+Web+Developer)](https://git.io/typing-svg)
 # <div align="center"><b>Hi! <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></picture> I´m Jose Antonio</b></div>
 
 <div align="center">
@@ -64,7 +66,7 @@ I am a quick learner, tenacious, and I excel in teamwork, always striving to con
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-
+---
 <br>
 
 ## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"></picture><b> Design Skills </b>
@@ -72,5 +74,20 @@ I am a quick learner, tenacious, and I excel in teamwork, always striving to con
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
+
+---
+<p align="center" >
+  😊 You´re Welcome 😊
+  <div align="center">
+    © 2025 Delpino10
+  </div>
+  
+</p>
+
+---
+
+<br>
+
+Last Edited on: 16/01/2025
 
 
